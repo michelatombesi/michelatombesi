@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 My name is Michela
 
-<!--
-**michelatombesi/michelatombesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ICT Recruiter & Talent Acquisition Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m looking for the best Tech Talents based in Italy for my Company's projects/clients.
+  
+- 🌱 I’m passionate in IT, but I'm defo not a developer..
+  
+- 👯 Any help in understanding better how to speck your language is well accepted
+  
+- I'm based in Rome, Italy.
+  
+- 😄 Hope to get in touch soon!
+  
+-  If you are an IT specialist, willing to join a fast-growing Company in a dynamic team on challenging projects, don't esitate tu contact me:
+- 💬 michelatombesi@libero.it
+  
+- I 'recruit', I read, I travel, I paint
